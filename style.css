@@ -1,5 +1,6 @@
 body {background-color:black;font-family:arial;color:white}
 
+/* For main content */
 .maindiv {
     background-color: white;
     color: black;
@@ -9,12 +10,14 @@ body {background-color:black;font-family:arial;color:white}
     margin:auto;
 }
 
+/* Add extra paddign for content wrt title and footer */
 .contentdiv {
     padding-left: 60px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
+/* Heading is grey */
 h1 {
     color:grey;
     font-family:verdana;
